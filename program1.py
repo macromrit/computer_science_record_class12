@@ -8,7 +8,7 @@ while True:
         ######div2
 
     except(EOFError, KeyboardInterrupt):
-        print("sorry it didnt work! try again")
+        print("sorry it didnt work! try again")      
 
 term_reversed = term[::-1]
 
