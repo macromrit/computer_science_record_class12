@@ -2,7 +2,7 @@
 
 #wap to calculate % of a student in 5 subject
 
-
+#hey updated
 def class_grp(name: str="amrit", 
               sub1: float=100,
               sub2: float=100, 
