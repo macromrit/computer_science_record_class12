@@ -1,4 +1,4 @@
-from modules import *
+from volume import *
 
 cube = float(input("Enter the length of side of a cube in cm's to find its volume: "))
 print(vol_cube(cube))
