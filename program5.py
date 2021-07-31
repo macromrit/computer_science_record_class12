@@ -1,4 +1,4 @@
-#program 5 - calculating % and marks of a stufent in 5 subjects
+#program 5 - calculating % and marks of a student in 5 subjects
 
 #wap to calculate % of a student in 5 subject
 
