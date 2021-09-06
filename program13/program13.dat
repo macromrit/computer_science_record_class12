@@ -1,7 +1,12 @@
 Content->nested list:
-[
-[1, 'Amrit'],
-[2, 'Andrew'],
-[3, 'Alex'],
-[4, 'Harry']
-]
+  [
+  [1, 'Amrit'],
+  [2, 'Andrew'],
+  [3, 'Alex'],
+  [4, 'Harry']
+  ]
+
+Output:
+  Enter the rollno's info to be displayed: 1
+  rollno = 1
+  name   = Amrit
