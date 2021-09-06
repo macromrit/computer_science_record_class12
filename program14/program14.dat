@@ -1,0 +1,20 @@
+Before Content->nested list:
+    [
+    [1, 99, 'Amrit'],
+    [2, 89, 'Josh'],
+    [3, 76, 'Daisy'],
+    [4, 68, 'Haslam']
+    ]
+
+Output:
+  Enter the rollno whose marks should be updated: 1
+  Enter the updated marks of Amrit: 100
+  Data updated successfully!
+  
+After Content->nested list:
+    [
+    [1, 100, 'Amrit'],#99 has been updated to 100
+    [2, 89, 'Josh'],
+    [3, 76, 'Daisy'],
+    [4, 68, 'Haslam']
+    ]
