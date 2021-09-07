@@ -16,7 +16,7 @@ cs record class 12 for internals... made this to have a confidential backup for 
 # program12  - Text File - display the tally of vowels, consonants, uppercase, lower case and non-alpha letters from a text file 
 # program13  - Binary File - searching the info of a student from a bin file.. having that rollno has been provided with.. to extract the content.
 # program14  - Binary File - updating the marks of a pupil from a bin file.. having that rollno has been provided with.. to update the content.
-# program15  - CSV File - reading and writting to a csv file which is comprised of students data.
+# program15  - CSV File - reading and writting to a csv file which is comprised of employees data.
 # 
 # BY:- C.Amrit Subramanian a.k.a Macromrit
 # Amrita Vidyala Class 12B Rollno:-20
