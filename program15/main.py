@@ -24,7 +24,7 @@ def writer(filename:str,
                           delimiter=',')
         for i in range(1,total_no_inputs+1): 
             print(F'Round {i}'+'-'*20)
-            rollno, name, classstd = str(input('Enter rollno: ')), str(input('Enter name: ')), str(input('Enter class: '))
+            rollno, name, classstd = str(input('Enter empno: ')), str(input('Enter name: ')), str(input('Enter designation: '))
             main.writerow([rollno, name, classstd])
             print()
     
@@ -32,7 +32,7 @@ def writer(filename:str,
 while True:
     x = str(input('Enter what ya wanna do(w/write, b/read, c/terminate): '))
     if x == 'w': writer('program15.csv', int(input('Enter the total no. of inputs ya wanna give: ')))
-    elif x == 'b': reader('program15.csv', str(input('Enter the rollno. of student.. whose details should be displayed: ')))
+    elif x == 'b': reader('program15.csv', str(input('Enter the empno of the person.. whose details should be displayed: ')))
     elif x == 'c': 
         print('Thanks for choosing us!')
         break
