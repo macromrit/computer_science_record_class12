@@ -1,14 +1,14 @@
-Rollno,Name,Class
-1,C.Amrit Subramanian,12B
-2,Arjun.K,12B
-3,Mohamad Fenugreek,12B
-4,P.M.Kumaran,12B
-5,M.Adethya,12B
-6,S.Surya,12B
-7,Avinash,12A
-8,Roopesh Mathav,12B
-9,Pradeep Sucker,12A
-10,Karthik,12B
-11,Navish,12B
-12,Hari Krishna,12B
-13,Sai Balaji,12B
+empno,Name,designation
+1,C.Amrit Subramanian,CEO
+2,Andrew,COO
+3,Daisy,team-buddy
+4,P.M.Kumaran,team-buddy
+5,M.Adethya,team-buddy
+6,S.Surya,team-buddy
+7,Avinash,team-buddy
+8,Roopesh Mathav,team-buddy
+9,Pradeep Sucker,team-buddy
+10,Karthik,team-buddy
+11,Navish,team-buddy
+12,Hari Krishna,team-buddy
+13,Sai Balaji,team-buddy
